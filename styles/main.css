@@ -1,0 +1,10 @@
+body {
+    font-family: 'Lora', serif;
+    font-family: 'PT Mono', monospace;
+}
+.burger {
+    background-image: url(../img/Group\ 4.png);
+}
+.header-logo {
+    background-image: url(../img/noroot\ 1.svg);
+}
