@@ -2,6 +2,12 @@ body {
     font-family: 'Lora', serif;
     font-family: 'PT Mono', monospace;
 }
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
 .burger {
     background-image: url(../img/Group\ 4.png);
 }
