@@ -2,14 +2,21 @@ body {
     font-family: 'Lora', serif;
     font-family: 'PT Mono', monospace;
 }
+header {
+    border-bottom: 1px solid #DEDEDE;
+}
 .container {
     max-width: 1180px;
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
 }
-header {
-    border-bottom: 1px solid #DEDEDE;
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 26px;
+    padding-bottom: 25px;
 }
 .burger {
     background-image: url(../img/Group\ 4.png);
