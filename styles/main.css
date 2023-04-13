@@ -21,6 +21,16 @@ header {
 .burger {
     background-image: url(../img/Group\ 4.png);
 }
+.header-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 .header-logo {
+    display: block;
     background-image: url(../img/noroot\ 1.svg);
+    width: 176px;
+    height: 56px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
